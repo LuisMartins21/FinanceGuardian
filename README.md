@@ -1,2 +1,2 @@
 # FinanceGuardian
-Your Personal Guardian for Smarter Spending
+Your Mobile Guardian for Smarter Spending
